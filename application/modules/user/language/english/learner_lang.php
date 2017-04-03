@@ -1,0 +1,85 @@
+<?php
+
+$lang['form_title']             =   "Learner Form";
+$lang['page_title']             =   "Learner";
+$lang['home']                   =   "Home";
+$lang['learner']                =   "Learner";
+$lang['add']                    =   "Add";
+$lang['edit']                   =   "Edit";
+$lang['o_tutor']				=   "O-TUTOR";
+/////////form attributes/////////////////
+$lang['page_subtitle']          =   "Create new learner";
+$lang['learner_add_form']       =   "Learner Add form";
+$lang['category_name']          =   "Learner Name";
+$lang['first_name']             =   "First Name";
+$lang['last_name']              =   "Last Name";
+$lang['categories']             =   "Categories";
+$lang['user_name']              =   "User Name";
+$lang['email_address']          =   "Email Address";
+$lang['password']               =   "Password";
+$lang['contact_number']         =   "Contact Number";
+$lang['location']               =   "Location";
+$lang['description']            =   "Description";
+$lang['status']                 =   "Status";
+$lang['active']                 =   "Active";
+$lang['submit']                 =   "Submit";
+$lang['go_back']                =   "Go Back";
+$lang['inactive']               =   "Inactive";
+$lang['tutor']                  =   "Tutor";
+$lang['select_tutor']           =   "Select Tutor";
+$lang['update']                 =   "Update";
+$lang['learner_edit_form']      =   "Learner edit form";
+$lang['learner_tutor_information'] =    "Edit Learner Information";
+$lang['min_8_characters']        =	"Min 6 characters";
+$lang['valid_email_error']	=   "Please enter valid email address";
+$lang['pass_min_length_error']				=	"Password is shorter than 6 characters.";
+$lang['pass_atleast_one_digit_error']		=	"Password must be conatain at least one digit.";
+$lang['pass_atleast_one_upper_error']		=   "Password must be conatain at least one upper case.";
+$lang['pass_min_restriction']				=   "Min Length 6,At least one digit,one upper case letter";
+$lang['valid_contact_no_error']				=	"Please enter valid contact number";
+$lang['select_image']           =   'Select image';
+//////////////////////////////////////////
+
+/////////////category listing page//////////////
+$lang['all_learners']           =   "All Learners";
+$lang['listing']                =   'Listing';
+$lang['tools']                  =   'Tools';
+$lang['delete']                 =   'Delete';
+$lang['export_to_excel']        =   'Export to Excel';
+$lang['sno']                    =   'S.NO';
+$lang['category']               =   'Category';
+$lang['created_by']             =   'Created By';
+$lang['created_on']             =   'Created On'; 
+$lang['action']                 =   'Action';
+$lang['edit']                   =   'Edit';	
+$lang['email']                  =   'Email';
+$lang['profile_image']          =   'Profile Image';
+$lang['tutor_name']             =   'Tutor Name';
+$lang['email_exist_error']                  =   'Email address already exist ,please enter another email address';
+$lang['duplicate_learner_error']            =   'Duplicate entry, leaner already added by same tutor';
+$lang['learner_available_error'] 			=	'Learner already available,enroll in this group';
+$lang['user_exist_error']                   =   "Username already exist ,please enter another username";
+$lang['add_learner_success']                =   "Great! Learner created successfully";
+$lang['edit_learner_success']               =   "Great! Information updated successfully";
+$lang['deleted_learners_success']           =   "Learners Deleted successfully.";
+$lang['deleted_learner_success']            =   "Learner Deleted successfully.";
+$lang['learner_addedto_group_error']        =   "Learner already assign in this group";
+$lang['img_upload_note']                    =   "Image Max size 2 MB and type .gif,.jpg,.png only allowed";
+$lang['note']                               =   "Note";
+
+$lang['emptyTable']                             =   "No data available in table";
+$lang['infoEmpty']          			=   "No entries found";
+$lang['zeroRecords']        			=   "No matching records found";
+$lang['my_search']          			=   "My search: ";
+$lang['showing']          			=   "Showing ";
+$lang['to']          				=   "to";
+$lang['of']          				=   "of";
+$lang['entries']          			=   "entries";
+$lang['filtered_from']				=   "filtered from";
+$lang['total']					=   "total";
+$lang['show']					=   "Show";
+$lang['all']					=   "All";
+$lang['prev']					=   "Prev";
+$lang['next']					=   "Next";
+$lang['last']					=   "Last";
+$lang['first']					=   "First";

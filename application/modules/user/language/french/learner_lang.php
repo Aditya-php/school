@@ -1,0 +1,85 @@
+<?php
+
+$lang['form_title']             =   "Formulaire d'apprenant";
+$lang['page_title']             =   "Apprenant";
+$lang['home']                   =   "Accueil";
+$lang['learner']                =   "Apprenant";
+$lang['add']                    =   "Ajouter";
+$lang['edit']                   =   "Modifier";
+$lang['o_tutor']				=   "O-TUTOR";
+/////////form attributes/////////////////
+$lang['page_subtitle']          =   "Créer un nouvel apprenant";
+$lang['learner_add_form']       =   "Formulaire de création d'un apprenant";
+$lang['category_name']          =   "Nom de l'apprenant";
+$lang['first_name']             =   "Prénom";
+$lang['last_name']              =   "Nom";
+$lang['categories']             =   "Catégories";
+$lang['user_name']              =   "Nom d'utilisateur";
+$lang['email_address']          =   "Adresse courriel";
+$lang['password']               =   "Mot de passe";
+$lang['contact_number']         =   "Numéro de téléphone";
+$lang['location']               =   "Résidence";
+$lang['description']            =   "Description";
+$lang['status']                 =   "Status";
+$lang['active']                 =   "Actif";
+$lang['submit']                 =   "Soumettre";
+$lang['go_back']                =   "Retour";
+$lang['inactive']               =   "Inactif";
+$lang['tutor']                  =   "Tuteur";
+$lang['select_tutor']           =   "Sélectionnez le tuteur";
+$lang['update']                 =   "Mettre à jour";
+$lang['learner_edit_form']      =   "Formulaire d'édition d'un apprenant";
+$lang['learner_tutor_information'] =    "Modifier les informations d'un apprenant";
+$lang['min_8_characters']        =	"Min 6 caractères";
+$lang['valid_email_error']	=   "Merci d'entrer une adresse courriel valide";
+$lang['pass_min_length_error']				=	"Mot de passe est plus court de 6 caractères.";
+$lang['pass_atleast_one_digit_error']		=	"Mot de passe doit être conatain au moins un chiffre.";
+$lang['pass_atleast_one_upper_error']		=   "Mot de passe doit être conatain au moins une majuscule.";
+$lang['pass_min_restriction']				=  "Longueur Min 6,Au moins un chiffre,une lettre majuscule";
+$lang['valid_contact_no_error']				=	"S'il vous plaît entrer le numéro de téléphone valide";
+$lang['select_image']           =   "Sélectionner l'image";
+//////////////////////////////////////////
+
+/////////////category listing page//////////////
+$lang['all_learners']           =   "Tous les apprenants";
+$lang['listing']                =   'Liste';
+$lang['tools']                  =   'Outils';
+$lang['delete']                 =   'Supprimer';
+$lang['export_to_excel']        =   'Exporter vers Excel';
+$lang['sno']                    =   'S.NO';
+$lang['category']               =   'Categorie';
+$lang['created_by']             =   'Créé par';
+$lang['created_on']             =   'Créé le'; 
+$lang['action']                 =   'Action';
+$lang['edit']                   =   'Modifier';	
+$lang['email']                  =   'Courriel';
+$lang['profile_image']          =   'Image de profile';
+$lang['tutor_name']             =   'Nom du tuteur';
+$lang['email_exist_error']                  =   "Cette adresse courriel est déjà utilisée. Veuillez en utiliser une autre";
+$lang['duplicate_learner_error']            =   "Cet apprenant est un doublon. Il a déjà été ajouté par le tuteur.";
+$lang['learner_available_error'] 			=	"Apprenant déjà disponible , s'inscrire dans ce groupe";
+$lang['user_exist_error']                   =   "Ce nom d'utilisateur est déjà utilisé. Veuillez en utiliser un autre";
+$lang['add_learner_success']                =   "Apprenant créé avec succès";
+$lang['edit_learner_success']               =   "Apprenant mis à jour avec succès";
+$lang['deleted_learners_success']           =   "Apprenants supprimés avec succès";
+$lang['deleted_learner_success']            =   "Apprenant supprimé avec succès";
+$lang['learner_addedto_group_error']        =   "Apprenant attribuer déjà dans ce groupe";
+$lang['img_upload_note']                    =   "L'image peut avoir un volume de 2 Mo au maximum et peut seulement être de type .gif,.jpg ou .png.";
+$lang['note']                               =   "Note";
+
+$lang['emptyTable']                             =   "Aucune donnée disponible dans la table";
+$lang['infoEmpty']          			=   "Aucune entrée trouvée";
+$lang['zeroRecords']        			=   "Aucune entrée correspondante trouvée";
+$lang['my_search']          			=   "Ma recherche: ";
+$lang['showing']          			=   "Montre ";
+$lang['to']          				=   "à";
+$lang['of']          				=   "de";
+$lang['entries']          			=   "entrées";
+$lang['filtered_from']				=   "filtré de";
+$lang['total']					=   "total";
+$lang['show']					=   "Montrer";
+$lang['all']					=   "Tout";
+$lang['prev']					=   "Préc";
+$lang['next']					=   "Suiv";
+$lang['last']					=   "Dernier";
+$lang['first']					=   "Premier";

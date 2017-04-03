@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|assets)
+RewriteCond $1 !^(index\.php|assets|upload_image)
+RewriteCond $1 !^(index\.php|frontend_assets)
+RewriteCond $1 !^(index\.php|bigbluebutton-master)
+RewriteCond $1 !^(index\.php|captcha)
+RewriteCond $1 !^(index\.php|ckfinder)
+RewriteRule ^(.*)$ index.php/$1 [L]
+
+

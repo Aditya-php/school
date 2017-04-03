@@ -1,0 +1,77 @@
+<?php
+
+$lang['page_title']         = "Dashboard";
+$lang['page_subtitle']      = "statistics & reports";
+$lang['home']               = "Home";
+$lang['dashboard']          = "Dashboard";
+$lang['sales_summary']      = 'Sales Summary';
+$lang['today']              = 'Today';
+$lang['week']               = 'Week';
+$lang['month']              = 'Month';
+$lang['total_sales']        = 'Total Sales';
+$lang['revenue']            = 'Revenue';
+$lang['expenses']           = 'Expenses';
+$lang['growth']             = 'Growth';
+$lang['notifications']      = 'Notifications';
+$lang['you_have_4_pending_tasks']='You have 4 pending tasks.';
+$lang['just_now']           = 'Just now';
+$lang['new_learners_added'] = 'New Learners Added';
+$lang['weekly_stats']       = 'weekly stats...';
+$lang['courses']            = 'Courses';
+$lang['your_recent_courses']= 'Your recent courses';
+$lang['view_all']           = 'View All';
+$lang['create_courses']     = 'Create Courses';
+$lang['my_tasks']           = 'MY TASKS';
+$lang['complete']           = 'Complete';
+$lang['edit']               = 'Edit';
+$lang['cancel']             = 'Cancel';
+$lang['see_all_tasks']      = 'See All Tasks';
+$lang['events']             = 'Events';
+$lang['users']              = 'Users';
+$lang['alerts']             = 'Alerts';
+$lang['staff']              = 'Staff';
+$lang['customers']          = 'Customers';
+$lang['more']               = 'More';
+$lang['general']            = 'General';
+$lang['system']             = 'System';
+$lang['general_settings']   = 'General Settings';
+$lang['system_settings']    = 'System Settings';
+$lang['save_changes']       = 'Save Changes';
+$lang['on']                 = 'On';
+$lang['off']                = 'Off';
+$lang['courses']            = 'Courses';
+$lang['create_courses']     = 'Create Courses';
+$lang['your_recent_courses']='Your recent courses';
+$lang['quizzes']            = 'Quizzes';
+$lang['tasks']              = 'Tasks';
+$lang['total_courses']      = 'Total Courses';
+$lang['tutor']              = 'Tutor';
+$lang['learner']            = 'Learner';
+$lang['recent_added_tutor'] = 'Recent Added Tutor';
+//----------- added by aksoni 01/09/2015 --------------
+$lang['my_groups']          = 'My groups';
+$lang['students']           = "Students";
+$lang['resources']          = "Resources";
+$lang['exercises']          = "Exercises";
+
+/*For learner*/
+$lang['welcome_back']           =   "WELCOME BACK ";
+$lang['your_current_process']   =   "Your Current Progress";
+$lang['resources']              =   "resources";
+$lang['students']               =   "students";
+$lang['open_quizzes']           =   "Open Quizzes";
+$lang['upcoming_quizzes']      =   "Upcoming Quizzes";
+$lang['subject_name']           =   "Subject Name:";
+$lang['questions']              =   "QUESTIONS";
+$lang['minutes']                =   "MINUTES";
+$lang['open_tasks']             =   "Open Tasks";
+$lang['task_name']       =   "Task Name:";
+$lang['coming_soon']       =   "Coming Soon";
+$lang['']       =   "";
+$lang['']       =   "";
+$lang['']       =   "";
+$lang['']       =   "";
+$lang['']       =   "";
+$lang['']       =   "";
+/*End for learner*/
+$lang['o_tutor']	=   "O-TUTOR";

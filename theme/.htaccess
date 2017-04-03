@@ -1,0 +1,4 @@
+
+RewriteEngine on
+RewriteCond $1 !^(index\.html|)
+RewriteRule ^(.*)$ index.html/$1 [L]
